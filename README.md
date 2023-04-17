@@ -1,4 +1,5 @@
 ## Ultimate Guide for Hadoop 3.3.5 (Tested on Arch BTW)
+### Local Single Cluster 
 
 ![](assets/Satania_smug.jpg?raw=true)
 
