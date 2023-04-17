@@ -4,6 +4,10 @@
 
 ### This guide assumes you have installed Hadoop
 
+### ! Most of the copy and paste and file management stuff can be done using a file manager, you can use the paths given to navigate to these directories.
+
+### ! Please inform me if you have any doubts about it.
+
 **Most of this stuff is downright stolen from this [page](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)**
 
 **Installing ssh (For Debian and Ubuntu based distros):**
@@ -22,7 +26,15 @@ sudo dnf install openssh
 ## Add Path to JAVA_HOME
 
 ```
-export JAVA_HOME=/usr/lib/java-8-openjdk
+cd hadoop-3.3.5/etc/hadoop
+```
+
+**Open hadoop/hadoop-env.sh**
+
+```
+export JAVA_HOME=/usr/lib/java-8-openjdk (Do not leave any unnecessary spaces here)
+##If running different just change java-8 to java-version
+(example: /usr/lib/java-11-openjdk) 
 ```
 
 ## After the setup, try running 
