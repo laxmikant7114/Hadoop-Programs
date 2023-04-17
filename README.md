@@ -42,10 +42,10 @@ bin/hadoop
 **The following example copies the unpacked conf directory to use as input and then finds and displays every match of the given regular expression. Output is written to the given output directory.**
 
 ```
- mkdir input
-  $ cp etc/hadoop/*.xml input
-  $ bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.5.jar grep input output 'dfs[a-z.]+'
-  $ cat output/*
+mkdir input
+cp etc/hadoop/*.xml input
+bin/hadoop jar share/hadoop/mapreduce/hadoop-mapreduce-examples-3.3.5.jar grep input output 'dfs[a-z.]+'
+cat output/*
 ```
 
 ## Configuration
