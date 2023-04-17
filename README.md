@@ -1,5 +1,4 @@
-## Ultimate Guide for Hadoop 3.3.5 (Tested on Arch BTW)
-### Local Single Cluster 
+## Ultimate Guide for Hadoop 3.3.5 Local Single Node Cluster (Tested on Arch BTW)
 
 ![](assets/Satania_smug.jpg?raw=true)
 
@@ -7,7 +6,7 @@
 
 ### ! Most of the copy and paste and file management stuff can be done using a file manager, you can use the paths given to navigate to these directories.
 
-### ! Please inform me if you have any doubts about it.
+### ! Please inform me if you have any doubts or Issues about it.
 
 **Most of this stuff is downright stolen from this [page](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)**
 
