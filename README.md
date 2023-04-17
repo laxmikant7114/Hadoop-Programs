@@ -1,6 +1,6 @@
 ## This is for Hadoop 3.3.5 if you are on a different version look for official documentation
 
-![](Satania_smug.jpg?raw=true)
+![](assets/Satania_smug.jpg?raw=true)
 
 ### This guide assumes you have installed Hadoop
 
@@ -84,7 +84,7 @@ cd hadoop3.3.5/etc/hadoop
 
 ### What is ssh ?
 ### Method to log in to computer from your PC using the Interwebs(Internet)
-**For more info visit [here](https://www.howtogeek.com/311287/how-to-connect-to-an-ssh-server-from-windows-macos-or-linux/)
+**For more info visit [here](https://www.howtogeek.com/311287/how-to-connect-to-an-ssh-server-from-windows-macos-or-linux/)**
 
 **Now to check that you can ssh in to your localhost(Your own Pc) without a passphrase:**
 
