@@ -1,6 +1,6 @@
 ## This is for Hadoop 3.3.5 if you are on a different version look for official documentation
 
-![[Satania_smug.jpg]]
+![[assets/Satania_smug.jpg]]
 
 **Reference material used from [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Standalone_Operation)**
 
