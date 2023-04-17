@@ -1,8 +1,6 @@
 ## This is for Hadoop 3.3.5 if you are on a different version look for official documentation
 
-![Haha](https://github.com/PARTHXT1022/Hadoop-Programs/tree/main/assets/Satania_smug.jpg?raw=true)
-
-**Reference material used from [here](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html#Standalone_Operation)**
+![](Satania_smug.jpg?raw=true)
 
 ### This guide assumes you have installed Hadoop
 
