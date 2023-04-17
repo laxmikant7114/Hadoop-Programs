@@ -4,7 +4,7 @@
 
 ### This guide assumes you have installed Hadoop
 
-### ! Most of the copy and paste and file management stuff can be done using a file manager, you can use the paths given to navigate to these directories.
+### ! Most of the copy and paste and file management stuff can be done using a file manager, you can use the paths given to navigate to these directories (PDF is included as well).
 
 ### ! Please inform me if you have any doubts or Issues about it.
 
